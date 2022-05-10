@@ -1,0 +1,84 @@
+[{
+  "_id": {
+    "$oid": "6277b974eb51b6b17af6de07"
+  },
+  "title": "The way of Kings",
+  "author": "KapyGenuis",
+  "rating": 9,
+  "genres": [
+    "fancy",
+    "magic"
+  ],
+  "review": [
+    {
+      "name": "reine",
+      "age": 23
+    },
+    {
+      "name": "nahomie",
+      "age": 22
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6277be3deb51b6b17af6de08"
+  },
+  "title": "Dream Big",
+  "author": "Benjamin Carsen",
+  "pages": 300,
+  "genre": [
+    "fancay",
+    "objective"
+  ],
+  "rating": 9
+},{
+  "_id": {
+    "$oid": "6277be3deb51b6b17af6de09"
+  },
+  "title": "New Technology",
+  "author": "KapyGenus",
+  "pages": 500,
+  "genre": [
+    "fancay",
+    "objective"
+  ],
+  "rating": 8
+},{
+  "_id": {
+    "$oid": "6277be3deb51b6b17af6de0a"
+  },
+  "title": "Selfestime",
+  "author": "Benjamin Carsen",
+  "pages": 300,
+  "genre": [
+    "fancay",
+    "unique"
+  ],
+  "rating": 7
+},{
+  "_id": {
+    "$oid": "6277be3deb51b6b17af6de0b"
+  },
+  "title": "So natural so me",
+  "author": "Reine Nahomie",
+  "pages": 200,
+  "genre": [
+    "fancay",
+    "magic"
+  ],
+  "rating": 9
+},{
+  "_id": {
+    "$oid": "6277c75954593f284fce280e"
+  },
+  "review": [
+    {
+      "name": "nahomie",
+      "body": "so so"
+    },
+    {
+      "name": "donald",
+      "body": "man"
+    }
+  ]
+}]
